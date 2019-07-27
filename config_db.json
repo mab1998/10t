@@ -1,0 +1,7 @@
+{
+		"DB_HOST":"localhost",
+        "DB_USERNAME": "root",
+        "DB_PASSWORD": "",
+        "DB_DATABASE": "mydb",
+        "load_newFile_url": "False"
+}
